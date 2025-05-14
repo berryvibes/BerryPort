@@ -1,6 +1,6 @@
 /**
- * @copyright 2024 codewithsadee
- * @license Apache-2.0
+ * @copyright 2025 Berry
+ 
  */
 
 
@@ -32,7 +32,7 @@ const Header = () => {
               src="/images/logo.svg"
               width={40}
               height={40}
-              alt="Henry Clark"
+              alt="Berry"
             />
           </a>
         </h1>
