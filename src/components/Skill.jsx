@@ -11,11 +11,11 @@ import SkillCard from "./SkillCard";
 
 
 const skillItem = [
-  {
-    imgSrc: '/images/figma.svg',
-    label: 'Figma',
-    desc: 'Design tool'
-  },
+  // {
+  //   imgSrc: '/images/figma.svg',
+  //   label: 'Figma',
+  //   desc: 'Design tool'
+  // },
   {
     imgSrc: '/images/css3.svg',
     label: 'CSS',
@@ -26,21 +26,21 @@ const skillItem = [
     label: 'JavaScript',
     desc: 'Interaction'
   },
+  // {
+  //   imgSrc: '/images/nodejs.svg',
+  //   label: 'NodeJS',
+  //   desc: 'Web Server'
+  // },
   {
-    imgSrc: '/images/nodejs.svg',
-    label: 'NodeJS',
-    desc: 'Web Server'
+    imgSrc: '/images/Photoshop.svg',
+    label: 'Adobe Photoshop',
+    desc: 'Design tool'
   },
-  {
-    imgSrc: '/images/expressjs.svg',
-    label: 'ExpressJS',
-    desc: 'Node Framework'
-  },
-  {
-    imgSrc: '/images/mongodb.svg',
-    label: 'MongoDB',
-    desc: 'Database'
-  },
+  // {
+  //   imgSrc: '/images/mongodb.svg',
+  //   label: 'MongoDB',
+  //   desc: 'Database'
+  // },
   {
     imgSrc: '/images/react.svg',
     label: 'React',

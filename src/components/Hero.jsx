@@ -1,12 +1,5 @@
-/**
- * @copyright 2024 codewithsadee
- * @license Apache-2.0
- */
 
 
-/**
- * Components
- */
 import { ButtonPrimary, ButtonOutline } from "./Button";
 
 
@@ -63,7 +56,7 @@ const Hero = () => {
               src="/images/berry.png"
               width={656}
               height={800}
-              alt="Henry Clark"
+              alt="Berry"
               className="w-full"
             />
           </figure>
