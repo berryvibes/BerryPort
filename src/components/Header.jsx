@@ -29,9 +29,9 @@ const Header = () => {
             className="logo"
           >
             <img
-              src="/images/logo.svg"
-              width={40}
-              height={40}
+              src="/images/berry_removebg.png"
+              width={60}
+              height={60}
               alt="Berry"
             />
           </a>
