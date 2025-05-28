@@ -23,11 +23,12 @@ const ButtonPrimary = ({
 }) => {
   if (href) {
     return (
-      <a
-        href={"https://resume-ez9bwgfnj-berrys-projects-cbce8d1d.vercel.app/"}
-        target={target}
-        className={"btn btn-primary " + classes}
-      >
+        <a
+          href={href}
+          target={target}
+          className={"btn btn-primary " + classes}
+          download
+        >
         {label}
 
         {icon ?
