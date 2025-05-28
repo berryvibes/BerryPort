@@ -36,11 +36,11 @@ const skillItem = [
     label: 'Adobe Photoshop',
     desc: 'Design tool'
   },
-  // {
-  //   imgSrc: '/images/mongodb.svg',
-  //   label: 'MongoDB',
-  //   desc: 'Database'
-  // },
+  {
+    imgSrc: '/images/django.svg',
+    label: 'Django',
+    desc: 'Backend'
+  },
   {
     imgSrc: '/images/react.svg',
     label: 'React',
